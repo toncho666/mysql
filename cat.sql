@@ -25,4 +25,4 @@ select * from cat;
 replace into cat select * from shop.catalogs;
 select * from cat;
 select * from shop.catalogs;
-#select * from shop.catalogs where shop.catalogs.id = cat.id;
+
